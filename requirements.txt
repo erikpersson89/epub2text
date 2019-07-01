@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-bigquery
+google-cloud-storage
+bs4
+numpy
+pandas
+dask
+toolz
+cloudpickle
+gcsfs
